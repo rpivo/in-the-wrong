@@ -1,0 +1,8 @@
+{
+  "name": "in-the-wrong",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rpivo/in-the-wrong.git",
+  "author": "Ryan Pivovar <ryanpivovar@gmail.com>",
+  "license": "MIT"
+}
